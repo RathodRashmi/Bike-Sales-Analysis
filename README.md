@@ -1,5 +1,2 @@
 # Sales-Data-Analysis
-
-![sales](https://user-images.githubusercontent.com/127477877/225362405-c445c68c-6610-478c-9a43-e995da1f4adc.PNG
-
-
+![sales](https://user-images.githubusercontent.com/127477877/225668806-d967db2d-7262-4407-a5e8-881cd181c619.PNG)
